@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stay healthy</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Link stylesheets -->
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/media.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar container">
+            <a href="index.html"><img src="./icons/nav-logo.svg" alt=""></a>
+
+            <div class="nav-center">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Program</a></li>
+                    <li><a href="#">Nutritions</a></li>
+                    <li><a href="#">Pricing</a></li>
+                    <li><a href="#">About</a></li>
+                </ul>
+            </div>
+
+            <div class="navmobile">
+                <ul>
+                    <li class="logo"><a href="index.html"><img src="./icons/nav-logo.svg" alt=""></a>
+                        <i onclick=closeNavbar() class="fa-solid fa-xmark fa-xl"></i>
+                    </li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Program</a></li>
+                    <li><a href="#">Nutritions</a></li>
+                    <li><a href="#">Pricing</a></li>
+                    <li><a href="#">About</a></li>
+                </ul>
+            </div>
+
+            <div class="nav-right">
+                <i onclick=showNavbar() class="open fa-solid fa-bars fa-xl"></i>
+                <button class="btn">Join Now</button>
+            </div>
+        </nav>
+
+        <div class="main container">
+            <div class="main-text">
+                <p>WELCOME TO THE CLUB</p>
+                <h1>Choose Your Programs, Pick Your Meal, Let’s Get Healthy.</h1>
+                <p>StayHealty provides Online Training, and Consultation About Diet and Exercise tailored based on user
+                    needs. We will
+                    provide a training model that can be accessed anytime and anywhere with the best trainers.</p>
+            </div>
+            <div class="main-button">
+                <button class="btn">Join Now</button>
+                <button class="btn btn2">Contact Us</button>
+            </div>
+
+        </div>
+    </header>
+
+    <div class="span">
+        <div class="span-img container"></div>
+    </div>
+
+    <div class="text">
+        <p>PROGRAMS</p>
+        <h1>We have a programs to help your workouts</h1>
+    </div>
+
+    <!-- Start programs -->
+    <section class="programs container">
+        <div class="persons">
+            <i class="fa-solid fa-chevron-left fa-2xl"></i>
+            <div class="person">
+                <img src="./images/person1.png" alt="">
+                <div class="person-text">
+                    <div class="person-title">
+                        <h1>Full Body Workout</h1>
+                        <p>By The Rock</p>
+                    </div>
+                    <p>You can do it in your own home, all in under 30 mins? just need a mat and som </p>
+                    <a href="#">Check out this program! <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+            <div class="person">
+                <img src="./images/person2.png" alt="">
+                <div class="person-text">
+                    <div class="person-title">
+                        <h1>Bodyweight Workout</h1>
+                        <p>By Timi Tarner</p>
+                    </div>
+                    <p>No need equipments, just your body, your soul, and your spirit. You can do</p>
+                    <a href="#">Check out this program! <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+            <div class="person">
+                <img src="./images/person3.png" alt="">
+                <div class="person-text">
+                    <div class="person-title">
+                        <h1>Dumbell Workout</h1>
+                        <p>By Frank Jane</p>
+                    </div>
+                    <p>This is a workout you can do at home just using a set of barbells. The workout is</p>
+                    <a href="#">Check out this program! <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+            <i class="fa-solid fa-chevron-right fa-2xl"></i>
+        </div>
+    </section>
+    <!-- Finish programs -->
+
+    <!-- Start nutritions section -->
+    <div class="nutritions container">
+        <div class="n-left">
+            <div class="n-pictures">
+                <img class="img1" src="./images/picture1.png" alt="">
+                <img class="img2" src="./images/picture2.png" alt="">
+            </div>
+            <div class="n-icons">
+                <img class="icon icon1" src="./icons/discipline.svg" alt="">
+                <img class="icon icon2" src="./icons/eating.svg" alt="">
+            </div>
+        </div>
+        <div class="n-right">
+            <p>NUTRITIONS</p>
+            <h1>meal preparation for workout</h1>
+            <p>Don’t worry we have the best nutritionist for your workout, firstly consult with our experts, we can make
+                your meal
+                preparation based on Total Daily Energy Expenditure.</p>
+            <button class="btn">Join Now</button>
+        </div>
+    </div>
+    <!-- Finish nutritions section -->
+
+
+
+    <!-- Start pricing section -->
+    <header class="header2">
+        <div class="text text2">
+            <p>PRICING</p>
+            <h1>CHOOSE YOUR PACKAGE FOR WORKOUT</h1>
+        </div>
+
+        <div class="cards">
+            <div class="card">
+                <h1>Basic</h1>
+                <img src="./images/card1.png" alt="">
+                <p>The Rock</p>
+                <div class="card-p">
+                    <p><i class="fa-solid fa-check"></i>3 Times A Week</p>
+                    <p><i class="fa-solid fa-check"></i>Full Zoom</p>
+                    <p><i class="fa-solid fa-check"></i>PDF Module</p>
+                    <p><i class="fa-solid fa-check"></i>Meal Preparation</p>
+                </div>
+
+                <div class="card-price">
+                    <p><strong>Rp500.000</strong>/month</p>
+                    <button class="btn">Workout Now</button>
+                </div>
+
+            </div>
+            <div class="card">
+                <h1>Standard</h1>
+                <img src="./images/card2.png" alt="">
+                <p>Anna Jane</p>
+                <div class="card-p">
+                    <p><i class="fa-solid fa-check"></i>4 Times A Week</p>
+                    <p><i class="fa-solid fa-check"></i>Full Zoom</p>
+                    <p><i class="fa-solid fa-check"></i>PDF Module</p>
+                    <p><i class="fa-solid fa-check"></i>Meal Preparation</p>
+                    <p><i class="fa-solid fa-check"></i>Supplement</p>
+                </div>
+
+                <div class="card-price">
+                    <p><strong>Rp1.000.000</strong>/month</p>
+                    <button class="btn">Workout Now</button>
+                </div>
+
+            </div>
+            <div class="card">
+                <h1>Basic</h1>
+                <img src="./images/card3.png" alt="">
+                <p>The Rock</p>
+                <div class="card-p">
+                    <p><i class="fa-solid fa-check"></i>3 Times A Week</p>
+                    <p><i class="fa-solid fa-check"></i>Full Zoom</p>
+                    <p><i class="fa-solid fa-check"></i>PDF Module</p>
+                    <p><i class="fa-solid fa-check"></i>Meal Preparation</p>
+                    <p><i class="fa-solid fa-check"></i>Supplement</p>
+                    <p><i class="fa-solid fa-check"></i>Gym Equipment</p>
+                </div>
+
+                <div class="card-price">
+                    <p><strong>Rp500.000</strong>/month</p>
+                    <button class="btn">Workout Now</button>
+                </div>
+
+            </div>
+        </div>
+    </header>
+    <!-- Finish pricing section -->
+
+
+
+    <!-- Start benefits part -->
+    <div class="benefits container">
+        <div class="text">
+            <p>ABOUT US</p>
+            <h1>Benefits of joining with us</h1>
+        </div>
+
+        <div class="experience">
+            <div class="box">
+                <h1>5+</h1>
+                <p>Years Of Journey</p>
+            </div>
+            <div class="box">
+                <h1>500+</h1>
+                <p>Happy Clients</p>
+            </div>
+            <div class="box">
+                <h1>400+</h1>
+                <p>Dedicated Members</p>
+            </div>
+        </div>
+
+        <div class="benefit">
+            <div class="bnft">
+                <div class="bnft-icon">
+                    <img src="./icons/clock.svg" alt="">
+                </div>
+                <div class="bnft-text">
+                    <h1>flexible class</h1>
+                    <p>you can adapt the class to your busy life very easily Workout everytime and everywhere.</p>
+                </div>
+            </div>
+            <div class="bnft">
+                <div class="bnft-icon">
+                    <img src="./icons/list.svg" alt="">
+                </div>
+                <div class="bnft-text">
+                    <h1>Track Progress</h1>
+                    <p>See your Progress and workout features for tracking your healthy.</p>
+                </div>
+            </div>
+            <div class="bnft">
+                <div class="bnft-icon">
+                    <img src="./icons/dumbbell.svg" alt="">
+                </div>
+                <div class="bnft-text">
+                    <h1>Best Trainers</h1>
+                    <p>Our trainers is very profesional, very motivated and funny.</p>
+                </div>
+            </div>
+            <div class="bnft">
+                <div class="bnft-icon">
+                    <img src="./icons/profile.svg" alt="">
+                </div>
+                <div class="bnft-text">
+                    <h1>Meet New Friends</h1>
+                    <p>we have the big classes in the online workout, you can meet our new member for sharing and chill
+                        out.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Finish benefits part -->
+
+    <!-- Start email section -->
+    <div class="email container">
+        <div class="email-text">
+            <h1>Become a member of this workout class</h1>
+            <div class="wrapper">
+                <input type="text" placeholder="Email Address">
+                <button class="btn">Join Now</button>
+            </div>
+        </div>
+        <div class="email-images">
+            <div class="left">
+                <img src="./images/email-img1.png" alt="">
+                <img src="./images/email-img3.png" alt="">
+            </div>
+            <div class="right">
+                <img src="./images/email-img2.png" alt="">
+                <img src="./images/email-img4.png" alt="">
+            </div>
+        </div>
+    </div>
+    <!-- Finish email section -->
+
+    <hr>
+
+    <!-- Start last part -->
+    <footer>
+        <div class="footer-left">
+            <a href="index.html"><img src="./icons/footer-logo.svg" alt=""></a>
+            <p>Online Training, and Consultation About Diet and Exercise tailored based on user needs.</p>
+            <div class="footer-icons">
+                <i class="fa-brands fa-youtube fa-xl"></i>
+                <i class="fa-brands fa-facebook fa-xl"></i>
+                <i class="fa-brands fa-instagram fa-xl"></i>
+            </div>
+        </div>
+        <div class="footer-right">
+            <div class="list">
+                <h3>Product</h3>
+                <ul>
+                    <li>Gym Equipment</li>
+                    <li>Supplement</li>
+                    <li>Blog</li>
+                </ul>
+            </div>
+            <div class="list">
+                <h3>Explore Us</h3>
+                <ul>
+                    <li>FAQ</li>
+                    <li>Privacy Policy</li>
+                    <li>Terms and Conditions</li>
+                </ul>
+            </div>
+            <div class="list">
+                <h3>Contact</h3>
+                <ul>
+                    <li>hi@stayhealthy.com</li>
+                    <li>021-123-636</li>
+                    <li>stayhealthy.com</li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    <!-- Finish last part -->
+
+    <hr>
+
+    <div class="copyright">
+        <p>© 2024 StayHealty. All rights reserved</p>
+    </div>
+
+    <!-- JavaScript -->
+    <script>
+        function showNavbar() {
+            const navmobile = document.querySelector('.navmobile')
+            navmobile.style.display = 'block'
+        }
+
+        function closeNavbar() {
+            const navmobile = document.querySelector('.navmobile')
+            navmobile.style.display = 'none'
+        }
+    </script>
+    <!-- JavaScript -->
+</body>
+
+</html>

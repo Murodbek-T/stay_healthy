@@ -1,0 +1,1546 @@
+@media (max-width: 1440px) {
+  .box h1 {
+    font-size: 2.8rem;
+  }
+  .box p {
+    font-size: 1rem;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 38rem;
+    height: 6.6rem;
+  }
+  .bnft-text h1 {
+    font-size: 1.8rem;
+  }
+
+  .bnft-text p {
+    line-height: 30px;
+  }
+  .bnft-icon img {
+    width: 70px;
+    height: 70px;
+  }
+}
+
+@media (max-width: 1350px) {
+  .text h1 {
+    width: 36rem;
+    font-size: 2.3rem;
+  }
+
+  .text p {
+    font-size: 0.9rem;
+  }
+
+  .person {
+    width: 20rem;
+    height: 25rem;
+  }
+
+  .person img {
+    width: 22.4rem;
+    height: 15rem;
+  }
+
+  .box h1 {
+    font-size: 2.7rem;
+  }
+  .box p {
+    font-size: 1rem;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 37rem;
+    height: 6.5rem;
+  }
+  .bnft-text h1 {
+    font-size: 1.6rem;
+  }
+
+  .bnft-text p {
+    line-height: 28px;
+  }
+  .bnft-icon img {
+    width: 70px;
+    height: 70px;
+  }
+}
+
+@media (max-width: 1320px) {
+  .box h1 {
+    font-size: 2.6rem;
+  }
+  .box p {
+    font-size: 1rem;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 35rem;
+    height: 6.5rem;
+  }
+  .bnft-text h1 {
+    font-size: 1.5rem;
+  }
+
+  .bnft-text p {
+    font-size: 0.9rem;
+    line-height: 28px;
+  }
+  .bnft-icon img {
+    width: 70px;
+    height: 70px;
+  }
+}
+
+@media (max-width: 1260px) {
+  .text h1 {
+    width: 34rem;
+    font-size: 2.1rem;
+  }
+
+  .text p {
+    font-size: 0.8rem;
+  }
+
+  .person {
+    width: 18rem;
+    height: 23rem;
+  }
+
+  .person img {
+    width: 20.4rem;
+    height: 13rem;
+  }
+
+  .person-text p {
+    line-height: 24px;
+    font-size: 0.95rem;
+  }
+
+  .person-title h1 {
+    font-size: 1.6rem;
+  }
+
+  .person-title p {
+    font-size: 0.75rem;
+  }
+
+  .box h1 {
+    font-size: 2.5rem;
+  }
+  .box p {
+    font-size: 1rem;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 33rem;
+    height: 6.5rem;
+  }
+  .bnft-text h1 {
+    font-size: 1.4rem;
+  }
+
+  .bnft-text p {
+    width: 70%;
+    font-size: 0.9rem;
+    line-height: 26px;
+  }
+  .bnft-icon img {
+    width: 65px;
+    height: 65px;
+  }
+
+  .footer-left p {
+    font-size: 0.9rem;
+    width: 420px;
+  }
+
+  .list li {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 1150px) {
+  .text h1 {
+    width: 32rem;
+    font-size: 1.9rem;
+  }
+
+  .text p {
+    font-size: 0.7rem;
+  }
+
+  .person {
+    width: 16rem;
+    height: 21rem;
+  }
+
+  .person img {
+    width: 18.4rem;
+    height: 13rem;
+  }
+
+  .person-text p {
+    line-height: 22px;
+    font-size: 0.85rem;
+  }
+
+  .person-title h1 {
+    font-size: 1.4rem;
+  }
+
+  .person-title p {
+    font-size: 0.65rem;
+  }
+
+  .n-left {
+    width: 33rem;
+    height: 23rem;
+  }
+
+  .n-pictures > img {
+    width: 23rem;
+    height: 13rem;
+  }
+
+  .n-right {
+    width: 26rem;
+    height: 18.8rem;
+  }
+
+  .n-right p {
+    font-size: 0.9rem;
+    line-height: 28px;
+  }
+
+  .n-right h1 {
+    font-size: 2.6rem;
+  }
+
+  .icon {
+    width: 15rem;
+    height: 9rem;
+  }
+
+  .box h1 {
+    font-size: 2.4rem;
+  }
+  .box p {
+    font-size: 1rem;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 31rem;
+    height: 6.5rem;
+  }
+  .bnft-text h1 {
+    font-size: 1.3rem;
+  }
+
+  .bnft-text p {
+    width: 70%;
+    font-size: 0.9rem;
+    line-height: 26px;
+  }
+  .bnft-icon img {
+    width: 65px;
+    height: 65px;
+  }
+
+  .email-images {
+    width: 15rem;
+    height: 18rem;
+  }
+
+  .email-images img {
+    width: 118px;
+    height: 118px;
+  }
+
+  .email-text h1 {
+    width: 561px;
+    font-size: 2.6rem;
+  }
+
+  input {
+    width: 17rem;
+    height: 2.8rem;
+    font-size: 1rem;
+  }
+
+  .footer-left p {
+    font-size: 0.9rem;
+    width: 400px;
+  }
+
+  .list li {
+    font-size: 0.75rem;
+  }
+}
+
+@media (max-width: 1045px) {
+  .text h1 {
+    width: 30rem;
+    font-size: 1.7rem;
+  }
+
+  .text p {
+    font-size: 0.6rem;
+  }
+
+  .person {
+    width: 14rem;
+    height: 19rem;
+  }
+
+  .person img {
+    width: 18rem;
+    height: 13rem;
+  }
+
+  .person-text p {
+    line-height: 22px;
+    font-size: 0.75rem;
+  }
+
+  .person-title h1 {
+    font-size: 1.3rem;
+  }
+
+  .person-title p {
+    font-size: 0.6rem;
+  }
+
+  .n-left {
+    width: 30rem;
+    height: 20rem;
+  }
+
+  .n-pictures > img {
+    width: 18rem;
+    height: 10rem;
+  }
+
+  .n-right {
+    width: 24rem;
+    height: 16.8rem;
+  }
+
+  .n-right p {
+    font-size: 0.85rem;
+    line-height: 26px;
+  }
+
+  .n-right h1 {
+    font-size: 2.4rem;
+  }
+
+  .icon {
+    width: 13rem;
+    height: 7rem;
+  }
+
+  .card {
+    width: 18rem;
+    height: 40rem;
+  }
+
+  .card-price p {
+    font-size: 1.2rem;
+  }
+
+  strong {
+    font-size: 2rem;
+  }
+
+  .box h1 {
+    font-size: 2.2rem;
+  }
+  .box p {
+    font-size: 1rem;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 29rem;
+    height: 6.5rem;
+  }
+  .bnft-text h1 {
+    font-size: 1.1rem;
+  }
+
+  .bnft-text p {
+    width: 65%;
+    font-size: 0.8rem;
+    line-height: 24px;
+  }
+  .bnft-icon img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .email {
+    height: 20rem;
+  }
+
+  .email-images {
+    width: 14rem;
+    height: 15rem;
+  }
+
+  .email-images img {
+    width: 98px;
+    height: 98px;
+  }
+
+  .email-text h1 {
+    width: 540px;
+    font-size: 2.4rem;
+  }
+
+  input {
+    width: 16rem;
+    height: 2.8rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .btn {
+    width: 7.5rem;
+    height: 2.5rem;
+    font-size: 0.8rem;
+  }
+
+  .nav-center li a {
+    font-size: 0.8rem;
+  }
+
+  .main h1 {
+    font-size: 3rem;
+    font-weight: 700;
+  }
+  .main p {
+    font-size: 0.9rem;
+  }
+
+  .main-text {
+    width: 45rem;
+  }
+
+  .email {
+    height: 20rem;
+    justify-content: space-around;
+  }
+
+  .email-images {
+    width: 13rem;
+    height: 14rem;
+  }
+
+  .email-images img {
+    width: 88px;
+    height: 88px;
+  }
+
+  .email-text h1 {
+    width: 520px;
+    font-size: 2rem;
+  }
+
+  input {
+    width: 15rem;
+    height: 2.6rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 950px) {
+  .main h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  .main p {
+    font-size: 0.8rem;
+  }
+
+  .main-text {
+    width: 40rem;
+  }
+
+  .text h1 {
+    width: 28rem;
+    font-size: 1.5rem;
+  }
+
+  .text p {
+    font-size: 0.6rem;
+  }
+
+  .person {
+    width: 12rem;
+    height: 17rem;
+  }
+
+  .person img {
+    width: 16rem;
+    height: 11rem;
+  }
+
+  .person-text p {
+    line-height: 22px;
+    font-size: 0.75rem;
+  }
+
+  .person-title h1 {
+    font-size: 1.1rem;
+  }
+
+  .person-title p {
+    font-size: 0.6rem;
+  }
+
+  .person-text a {
+    font-size: 0.8rem;
+  }
+
+  .n-left {
+    width: 27rem;
+    height: 17rem;
+  }
+
+  .n-pictures > img {
+    width: 16rem;
+    height: 9rem;
+  }
+
+  .n-right {
+    width: 22rem;
+    height: 14rem;
+  }
+
+  .n-right p {
+    font-size: 0.7rem;
+    line-height: 24px;
+  }
+
+  .n-right h1 {
+    font-size: 2.2rem;
+  }
+
+  .icon {
+    width: 11rem;
+    height: 7rem;
+  }
+
+  .card {
+    width: 16rem;
+    height: 40rem;
+  }
+
+  .card-price p {
+    font-size: 1rem;
+  }
+
+  strong {
+    font-size: 1.8rem;
+  }
+
+  .card-p p {
+    width: 14rem;
+  }
+
+  .box h1 {
+    font-size: 2rem;
+  }
+  .box p {
+    font-size: 0.8rem;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 22rem;
+    height: 6.5rem;
+  }
+  .bnft-text h1 {
+    font-size: 1rem;
+  }
+
+  .bnft-text p {
+    width: 65%;
+    font-size: 0.7rem;
+    line-height: 22px;
+  }
+  .bnft-icon img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .email {
+    height: 20rem;
+    justify-content: space-around;
+  }
+
+  .email-images {
+    width: 12rem;
+    height: 13rem;
+  }
+
+  .email-images img {
+    width: 78px;
+    height: 78px;
+  }
+
+  .email-text h1 {
+    width: 500px;
+    font-size: 1.8rem;
+  }
+
+  input {
+    width: 15rem;
+    height: 2.6rem;
+    font-size: 1rem;
+  }
+
+  .footer-left p {
+    font-size: 0.8rem;
+    width: 250px;
+  }
+
+  .list h3 {
+    font-size: 1rem;
+  }
+
+  .list li {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .email {
+    height: 45rem;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .email-images {
+    width: 20rem;
+    height: 22rem;
+  }
+
+  .email-images img {
+    width: 158px;
+    height: 158px;
+  }
+
+  .email-text h1 {
+    text-align: center;
+    width: 500px;
+    font-size: 2rem;
+  }
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  input {
+    width: 15rem;
+    height: 2.6rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 830px) {
+  .nav-center ul {
+    display: none;
+  }
+
+  .open {
+    display: block;
+  }
+
+  .text h1 {
+    width: 28rem;
+    font-size: 1.5rem;
+  }
+
+  .text p {
+    font-size: 0.6rem;
+  }
+
+  .person {
+    width: 11rem;
+    height: 15rem;
+  }
+
+  .person img {
+    width: 14rem;
+    height: 10rem;
+  }
+
+  .person-text p {
+    line-height: 22px;
+    font-size: 0.75rem;
+  }
+
+  .person-title h1 {
+    font-size: 1.1rem;
+  }
+
+  .person-title p {
+    font-size: 0.6rem;
+  }
+
+  .person-text a {
+    font-size: 0.8rem;
+  }
+
+  .n-left {
+    width: 27rem;
+    height: 17rem;
+  }
+
+  .n-pictures > img {
+    width: 16rem;
+    height: 9rem;
+  }
+
+  .n-right {
+    width: 28rem;
+    height: 12rem;
+    gap: 1rem;
+  }
+
+  .n-right p {
+    font-size: 0.65rem;
+    line-height: 22px;
+  }
+
+  .n-right h1 {
+    font-size: 2rem;
+  }
+
+  .icon {
+    width: 11rem;
+    height: 7rem;
+  }
+
+  footer {
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .footer-left p {
+    font-size: 0.7rem;
+    width: 200px;
+  }
+
+  .list h3 {
+    font-size: 0.9rem;
+  }
+
+  .list li {
+    font-size: 0.65rem;
+  }
+}
+
+@media (max-width: 770px) {
+  .person {
+    width: 11rem;
+    height: 14rem;
+  }
+
+  .persons {
+    gap: 1.5rem;
+  }
+
+  .person img {
+    width: 13rem;
+    height: 10rem;
+  }
+
+  .card {
+    width: 14rem;
+    height: 40rem;
+  }
+
+  .card-p p {
+    font-size: 0.8rem;
+  }
+
+  .card-price p {
+    font-size: 0.8rem;
+  }
+
+  strong {
+    font-size: 1.8rem;
+  }
+
+  .card-p p {
+    width: 14rem;
+  }
+
+  .box {
+    padding-right: 3rem;
+  }
+
+  .box h1 {
+    font-size: 2rem;
+  }
+  .box p {
+    font-size: 0.7rem;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 20rem;
+    height: 6.5rem;
+  }
+  .bnft-text h1 {
+    font-size: 1rem;
+  }
+
+  .bnft-text p {
+    width: 65%;
+    font-size: 0.7rem;
+    line-height: 18px;
+  }
+  .bnft-icon img {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+@media (max-width: 750px) {
+  .main h1 {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  .main p {
+    font-size: 0.7rem;
+  }
+  .main-text {
+    width: 30rem;
+  }
+
+  .person {
+    width: 10rem;
+    height: 13rem;
+  }
+
+  .persons {
+    gap: 1.4rem;
+  }
+
+  .person img {
+    width: 12rem;
+    height: 9.5rem;
+  }
+
+  .person-text p {
+    line-height: 20px;
+    font-size: 0.6rem;
+  }
+
+  .n-left {
+    width: 30rem;
+    height: 15rem;
+  }
+
+  .n-pictures > img {
+    width: 14rem;
+    height: 8rem;
+  }
+
+  .n-right {
+    width: 30rem;
+    height: 11rem;
+    gap: 1rem;
+  }
+
+  .n-right p {
+    font-size: 0.55rem;
+    line-height: 20px;
+  }
+
+  .n-right h1 {
+    font-size: 1.8rem;
+  }
+
+  .icon {
+    width: 7rem;
+    height: 5rem;
+  }
+
+  footer {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .footer-left p {
+    font-size: 1rem;
+    width: 450px;
+  }
+
+  .list h3 {
+    font-size: 1rem;
+  }
+
+  .list li {
+    font-size: 0.8rem;
+  }
+
+  .copyright {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 680px) {
+  .persons i {
+    display: none;
+  }
+
+  .person {
+    width: 10rem;
+    height: 13rem;
+  }
+
+  .persons {
+    gap: 1.4rem;
+  }
+
+  .person-title h1 {
+    font-size: 0.9rem;
+  }
+
+  .person img {
+    width: 11rem;
+    height: 8.5rem;
+  }
+
+  .person-text p {
+    line-height: 20px;
+    font-size: 0.6rem;
+  }
+
+  .cards {
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+
+  .card {
+    width: 16rem;
+    height: 40rem;
+  }
+
+  .card-p p {
+    font-size: 0.8rem;
+  }
+
+  .card-price p {
+    font-size: 0.8rem;
+  }
+
+  strong {
+    font-size: 1.8rem;
+  }
+
+  .card-p p {
+    width: 14rem;
+  }
+
+  .benefits {
+    margin-top: 80rem;
+  }
+
+  .benefit {
+    margin-top: 8rem;
+    flex-wrap: nowrap;
+    gap: 2rem;
+  }
+
+  .box h1 {
+    font-size: 2rem;
+  }
+  .box p {
+    font-size: 0.6rem;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 25rem;
+    height: 7rem;
+  }
+  .bnft-text h1 {
+    font-size: 1.2rem;
+  }
+
+  .bnft-text p {
+    width: 70%;
+    font-size: 0.8rem;
+    line-height: 16px;
+  }
+  .bnft-icon img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .footer-left p {
+    font-size: 1rem;
+    width: 450px;
+  }
+
+  .list h3 {
+    font-size: 0.9rem;
+  }
+
+  .list li {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .person {
+    width: 9rem;
+    height: 12rem;
+  }
+
+  .persons {
+    gap: 1.2rem;
+  }
+
+  .person-title h1 {
+    font-size: 0.9rem;
+  }
+
+  .person img {
+    width: 10rem;
+    height: 8rem;
+  }
+
+  .person-text p {
+    line-height: 18px;
+    font-size: 0.6rem;
+  }
+
+  .footer-right {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer-left p {
+    font-size: 1rem;
+    width: 450px;
+  }
+
+  footer {
+    padding: 0rem 5rem;
+  }
+
+  .list h3 {
+    font-size: 1.2rem;
+    align-items: flex-start;
+  }
+
+  .list li {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 550px) {
+  .main h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  .main p {
+    font-size: 0.6rem;
+  }
+  .main-text {
+    width: 20rem;
+  }
+
+  .n-left {
+    width: 25rem;
+    height: 15rem;
+  }
+
+  .n-pictures > img {
+    width: 12rem;
+    height: 7rem;
+  }
+
+  .n-right {
+    width: 30rem;
+    height: 10rem;
+    gap: 0.8rem;
+  }
+
+  .n-right p {
+    font-size: 0.5rem;
+    line-height: 18px;
+  }
+
+  .n-right h1 {
+    font-size: 1.6rem;
+  }
+
+  .icon {
+    width: 7rem;
+    height: 5rem;
+  }
+
+  .benefits {
+    margin-top: 80rem;
+  }
+
+  .benefit {
+    margin-top: 8rem;
+    flex-wrap: nowrap;
+    gap: 2rem;
+  }
+
+  .box h1 {
+    font-size: 2rem;
+  }
+  .box p {
+    font-size: 0.6rem;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 25rem;
+    height: 7rem;
+  }
+  .bnft-text h1 {
+    font-size: 1.2rem;
+  }
+
+  .bnft-text p {
+    width: 70%;
+    font-size: 0.8rem;
+    line-height: 16px;
+  }
+  .bnft-icon img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .footer-left p {
+    font-size: 1rem;
+    width: 350px;
+  }
+
+  .list h3 {
+    font-size: 1.2rem;
+    align-items: flex-start;
+  }
+
+  .list li {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 540px) {
+  .benefits {
+    margin-top: 120rem;
+  }
+
+  .box {
+    padding-right: 0rem;
+    border: none;
+  }
+
+  .email {
+    height: 45rem;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .email-images {
+    width: 18rem;
+    height: 20rem;
+  }
+
+  .email-images img {
+    width: 138px;
+    height: 138px;
+  }
+
+  .email-text h1 {
+    text-align: center;
+    width: 350px;
+    font-size: 1.8rem;
+  }
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  input {
+    width: 13rem;
+    height: 2.3rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .persons {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .person {
+    width: 14rem;
+    height: 12rem;
+  }
+
+  .persons {
+    gap: 10rem;
+  }
+
+  .person-title h1 {
+    font-size: 1.5rem;
+  }
+
+  .person img {
+    width: 16rem;
+    height: 12rem;
+  }
+
+  .person-text p {
+    line-height: 18px;
+    font-size: 0.6rem;
+  }
+
+  .nutritions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .n-left {
+    width: 20rem;
+    height: 14rem;
+  }
+
+  .n-pictures > img {
+    width: 12rem;
+    height: 7rem;
+  }
+
+  .n-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20rem;
+    height: 10rem;
+    gap: 1rem;
+    text-align: center;
+  }
+
+  .n-right p {
+    text-align: center;
+    font-size: 0.7rem;
+    line-height: 20px;
+  }
+
+  .n-right h1 {
+    font-size: 1.6rem;
+  }
+
+  .icon {
+    width: 7rem;
+    height: 5rem;
+  }
+}
+
+@media (max-width: 430px) {
+  .navmobile {
+    width: 100%;
+  }
+
+  .text h1 {
+    width: 16rem;
+    font-size: 1.1rem;
+  }
+
+  .box h1 {
+    font-size: 1.8rem;
+  }
+  .box p {
+    font-size: 0.6rem;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 23rem;
+    height: 7rem;
+  }
+  .bnft-text h1 {
+    font-size: 1.1rem;
+  }
+
+  .bnft-text p {
+    width: 70%;
+    font-size: 0.7rem;
+    line-height: 16px;
+  }
+  .bnft-icon img {
+    width: 55px;
+    height: 55px;
+  }
+
+  .email {
+    height: 43rem;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .email-images {
+    width: 16rem;
+    height: 18rem;
+  }
+
+  .email-images img {
+    width: 118px;
+    height: 118px;
+  }
+
+  .email-text h1 {
+    text-align: center;
+    width: 350px;
+    font-size: 1.4rem;
+  }
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  input {
+    width: 12rem;
+    height: 2.2rem;
+    font-size: 0.8rem;
+  }
+
+  .footer-left p {
+    font-size: 0.9rem;
+    width: 300px;
+  }
+
+  .list h3 {
+    font-size: 1rem;
+    align-items: flex-start;
+  }
+
+  .list li {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .navbar img {
+    width: 8rem;
+  }
+
+  .btn {
+    width: 7rem;
+    height: 2rem;
+    font-size: 0.7rem;
+  }
+
+  .main h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  .main p {
+    font-size: 0.7rem;
+  }
+  .main-text {
+    gap: 2rem;
+    width: 15rem;
+  }
+
+  .n-left {
+    width: 15rem;
+    height: 14rem;
+  }
+
+  .n-pictures > img {
+    width: 12rem;
+    height: 7rem;
+  }
+
+  .n-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15rem;
+    height: 10rem;
+    gap: 1rem;
+    text-align: center;
+  }
+
+  .n-right p {
+    text-align: center;
+    font-size: 0.6rem;
+    line-height: 20px;
+  }
+
+  .n-right h1 {
+    font-size: 1.6rem;
+  }
+
+  .icon {
+    width: 7rem;
+    height: 5rem;
+  }
+
+  .email {
+    height: 40rem;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 2rem;
+  }
+
+  .email-images {
+    width: 14rem;
+    height: 16rem;
+  }
+
+  .email-images img {
+    width: 98px;
+    height: 98px;
+  }
+
+  .email-text h1 {
+    text-align: center;
+    width: 300px;
+    font-size: 1.2rem;
+  }
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  input {
+    width: 10rem;
+    height: 2rem;
+    font-size: 0.8rem;
+  }
+
+  .footer-left p {
+    font-size: 0.9rem;
+    width: 200px;
+  }
+
+  .list h3 {
+    font-size: 1rem;
+    align-items: flex-start;
+  }
+
+  .list li {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 350px) {
+  .navbar img {
+    width: 6.5rem;
+  }
+
+  .btn {
+    width: 6.5rem;
+    height: 2rem;
+    font-size: 0.6rem;
+  }
+
+  .main h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  .main p {
+    font-size: 0.7rem;
+  }
+  .main-text {
+    gap: 2rem;
+    width: 15rem;
+  }
+
+  .box h1 {
+    font-size: 1.5rem;
+  }
+  .box p {
+    font-size: 0.5rem;
+    text-align: center;
+  }
+  .bnft {
+    gap: 1.4rem;
+    width: 18rem;
+    height: 6rem;
+  }
+  .bnft-text h1 {
+    font-size: 1rem;
+  }
+
+  .bnft-text p {
+    width: 80%;
+    font-size: 0.6rem;
+    line-height: 16px;
+  }
+  .bnft-icon img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .email {
+    height: 40rem;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 2rem;
+  }
+
+  .email-images {
+    width: 12rem;
+    height: 14rem;
+  }
+
+  .email-images img {
+    width: 88px;
+    height: 88px;
+  }
+
+  .email-text h1 {
+    text-align: center;
+    width: 300px;
+    font-size: 1.2rem;
+  }
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  input {
+    width: 8rem;
+    height: 1.8rem;
+    font-size: 0.8rem;
+  }
+
+  .footer-left p {
+    font-size: 0.8rem;
+    width: 150px;
+  }
+
+  .copyright {
+    font-size: 0.6rem;
+  }
+}
